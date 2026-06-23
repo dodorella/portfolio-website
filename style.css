@@ -414,3 +414,18 @@ nav h2 {
 
     justify-content: space-between;
 }
+
+.more-projects {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.more-projects p {
+    margin-bottom: 0.5rem;
+    opacity: 0.8;
+}
+
+.more-projects a {
+    font-weight: 600;
+    text-decoration: none;
+}
